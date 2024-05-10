@@ -1,7 +1,9 @@
 /*
-  THIS IS MUSIC FOR MACHINES
-  Grimes - Music 4 Machines
-  cover by kaixi
+  @title Grimes - Music 4 Machines (cover)
+  @by KAIXI
+  @details THIS IS MUSIC FOR MACHINES
+           an intro to live coding on strudel
+           ability to divide by 2 recommended
 */
 
 // the song should be 135 beats per minute, in 4/4 time
